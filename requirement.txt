@@ -1,0 +1,13 @@
+torch 
+torchaudio 
+transformers 
+datasets
+kagglehub
+numpy
+kaggle
+pandas
+librosa
+pydub
+scikit-learn
+jupyter 
+ipywidgets
